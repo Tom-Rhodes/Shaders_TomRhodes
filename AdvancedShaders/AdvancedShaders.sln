@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AdvancedShaders", "AdvancedShaders\AdvancedShaders.vcxproj", "{5E8FBBA1-73D1-4FC3-8097-6B01B2701289}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E8FBBA1-73D1-4FC3-8097-6B01B2701289}.Debug|x64.ActiveCfg = Debug|x64
+		{5E8FBBA1-73D1-4FC3-8097-6B01B2701289}.Debug|x64.Build.0 = Debug|x64
+		{5E8FBBA1-73D1-4FC3-8097-6B01B2701289}.Debug|x86.ActiveCfg = Debug|Win32
+		{5E8FBBA1-73D1-4FC3-8097-6B01B2701289}.Debug|x86.Build.0 = Debug|Win32
+		{5E8FBBA1-73D1-4FC3-8097-6B01B2701289}.Release|x64.ActiveCfg = Release|x64
+		{5E8FBBA1-73D1-4FC3-8097-6B01B2701289}.Release|x64.Build.0 = Release|x64
+		{5E8FBBA1-73D1-4FC3-8097-6B01B2701289}.Release|x86.ActiveCfg = Release|Win32
+		{5E8FBBA1-73D1-4FC3-8097-6B01B2701289}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74536C0A-03AF-4B88-AC1B-DB8BC0D8DA42}
+	EndGlobalSection
+EndGlobal

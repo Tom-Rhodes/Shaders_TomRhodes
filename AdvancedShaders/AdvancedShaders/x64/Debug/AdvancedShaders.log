@@ -1,0 +1,2 @@
+﻿  glad.c
+C:\Users\thoma\Documents\work\Advanced Shaders p16203335\AdvancedShaders\AdvancedShaders\AdvancedShaders\glad.c(22,10): fatal error C1083: Cannot open include file: 'stdio.h': No such file or directory
